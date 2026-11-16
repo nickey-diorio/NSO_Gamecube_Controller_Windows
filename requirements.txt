@@ -1,0 +1,4 @@
+hidapi
+pyusb
+libusb-package
+vgamepad
